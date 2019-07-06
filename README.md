@@ -1,2 +1,2 @@
-# Training-C
-Training-C
+# Learning C
+Learning C
